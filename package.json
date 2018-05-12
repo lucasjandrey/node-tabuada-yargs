@@ -1,0 +1,26 @@
+{
+  "name": "tabuada",
+  "version": "1.0.0",
+  "description": "Tabuada com Yargs",
+  "main": "tabuada.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lucasjandrey/node-tabuada-yargs.git"
+  },
+  "keywords": [
+    "tabuada",
+    "yargs"
+  ],
+  "author": "Lucas Jandrey e Jhonatan W Voltolini",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lucasjandrey/node-tabuada-yargs/issues"
+  },
+  "homepage": "https://github.com/lucasjandrey/node-tabuada-yargs#readme",
+  "dependencies": {
+    "yargs": "^11.0.0"
+  }
+}
